@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**OfomiSteve21/OfomiSteve21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hey there 👋
+I'm OfomiSteve21 a forntend software developer based in Nigeria
+I design and build anything that deals with forntend
+My main tecch tool are Html, CSs, Javescript, REact, twailwind Css framework and bostraps
+I’m currently learning backend to become a full stack developer
+I’m looking for help with coruse on backend development and it's road map
+I am curruntly working on larning backend development 
+You can reach me on ofomisteve22@gmail.com
+  Fun fact:
+    I love animal
+    I love anime
+    Anything that has to deal with development and creation of thing inspire me 
+    
